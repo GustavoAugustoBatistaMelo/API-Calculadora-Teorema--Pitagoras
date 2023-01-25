@@ -18,4 +18,4 @@ Criar uma Api Simples com um endpoint para ser consumido, onde será feito uma r
 
   ## Link para o Repositório da Calculadora
 
-[www.dio.me](http://www.dio.me/)
+https://github.com/GustavoAugustoBatistaMelo/calculadora-teorema-pitagoras
