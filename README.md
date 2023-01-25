@@ -14,7 +14,7 @@ Criar uma Api Simples com um endpoint para ser consumido, onde será feito uma r
 
 ##  Link para Testar a calculadora 
 
-[www.calculadora-teorema-pitagoras.com](http://www.dio.me/https://calculadora-teorema-pitagoras.netlify.app/)
+http://www.dio.me/https://calculadora-teorema-pitagoras.netlify.app/
 
   ## Link para o Repositório da Calculadora
 
