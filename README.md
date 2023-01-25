@@ -5,16 +5,20 @@
 ## Proposta
 
 Criar uma Api Simples com um endpoint para ser consumido, onde será feito uma requisição para  realizar o calculo do **Teorema de Pitágoras** e retornar o resultado para o **Front-End**, esse calculo será realizado com os dois parâmetros que serão encaminhados através da requisição por **Query strings**, esses valores correspondem a diferentes lados de um triangulo.
-Base URL:https://flask-api-app.herokuapp.com/api/pythagorean-theorem
-os parametros enviados via query strings são: a, b ou h
-exemplo para calcular o valor passando um cateto e Hipotenusa: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&h5
-exemplo para calcular o valor passando os dois catetos e descobrir a Hipotenusa: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&b3
-A resposta será retornada no seguiinte padrão.
-{
-  "message": "",
-  "payload": ,
-  "statusCode": 
-}
+
+**Base URL**: https://flask-api-app.herokuapp.com/api/pythagorean-theorem
+
+os parâmetros devem ser enviados via query strings são: a, b ou h
+**Exemplo**: Para calcular o valor passando um Cateto e Hipotenusa e descobrir o valor do outro Cateto: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&h5
+
+**Exemplo**: Para calcular o valor passando os dois Catetos e descobrir a Hipotenusa: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&b3
+
+A resposta será retornada no seguinte padrão.
+`{`
+  `"message": "",`
+  `"payload": ,`
+  `"statusCode":` 
+`}`
 
 
 ## Recursos utilizados no projeto
@@ -31,6 +35,6 @@ https://calculadora-teorema-pitagoras.netlify.app/
 
 https://github.com/GustavoAugustoBatistaMelo/calculadora-teorema-pitagoras
 
-  ## Link para caso queira comsumir a Api
-  base URL:https://flask-api-app.herokuapp.com/api/pythagorean-theorem
- 
+  ## Link para caso queira consumir a Api
+  **Base URL**: https://flask-api-app.herokuapp.com/api/pythagorean-theorem
+
