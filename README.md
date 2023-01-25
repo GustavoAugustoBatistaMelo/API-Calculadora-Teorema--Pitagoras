@@ -19,9 +19,9 @@ Criar uma Api Simples com um endpoint para ser consumido, onde será feito uma r
 
 os parâmetros devem ser enviados via query strings são: a, b ou h
 
-**Exemplo**: Para calcular o valor passando um Cateto e Hipotenusa e descobrir o valor do outro Cateto: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&h5
+**Exemplo**: Para calcular o valor passando um Cateto e Hipotenusa e descobrir o valor do outro Cateto: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&h=5
 
-**Exemplo**: Para calcular o valor passando os dois Catetos e descobrir a Hipotenusa: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&b3
+**Exemplo**: Para calcular o valor passando os dois Catetos e descobrir a Hipotenusa: https://flask-api-app.herokuapp.com/api/pythagorean-theorem?a=4&b=3
 
 A resposta será retornada no seguinte padrão.
 `{`
